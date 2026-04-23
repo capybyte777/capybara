@@ -6,6 +6,7 @@ body {
 
 h1 {
 	font-size: 96px;
+	word-break: break-all;
 }
 
 a {
