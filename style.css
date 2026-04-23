@@ -1,0 +1,37 @@
+body { 
+	background-color: #f5f5dc;
+	color: #606c38;
+	font-family: Helvetica, sans-serif;
+}
+
+h1 {
+	font-size: 96px;
+}
+
+a {
+	color: #04724d;
+}
+
+.wichtiger-text {
+	color: greenyellow;
+}
+
+.sekuya-regular {
+  font-family: "Sekuya", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.press-start-2p-regular {
+  font-family: "Press Start 2P", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.notable-regular {
+  font-family: "Notable", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
